@@ -1,2 +1,28 @@
 # Chat-closed
 فتح دردشة مغلقة في امينو 
+# The SEA Team
+
+# التثبيت
+'''
+pkg install python -y
+pip install amino
+pip install aminos
+'''
+# التشغيل 
+'''
+cd Chat-closed
+python Chat.py
+'''
+# شرح
+الاداة لفتح خاص مغلق 
+اول شي تحط sid
+بعدين رابط بروفايلك بالمنتدى 
+بعدين رابط بروفايل الي بدك تدخله 
+بعدين تكتب رساله 
+# ملاحظه 
+Sid لمن تكتبه
+لاتحط sid=
+من بهدهم اللصق مثال 
+'''
+AnsiMSI6IG51bGwsICIwIjogMiwgIjMiOiAwLCAiMiI6ICJhYjg0MzBlYy1lYjQzLTQ3OGItYTAzNC1jNjBmZDYwOTc0NzMiLCAiNSI6IDE2MTA3MDcwNDcsICI0IjogIjM3LjIzNi4yMjQuNiIsICI2IjogMTAwfRkSz5xQYpX
+'''
