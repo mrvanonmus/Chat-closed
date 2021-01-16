@@ -3,11 +3,11 @@
 # The SEA Team
 
 # التثبيت
-'''
-pkg install python -y
+
+pkg install python -y && pkg install git
 pip install amino
 pip install aminos
-'''
+git clone https://github.com/mrvanonmus/Chat-closed
 # التشغيل 
 cd Chat-closed && python Chat.py
 # شرح
