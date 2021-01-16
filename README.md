@@ -9,10 +9,7 @@ pip install amino
 pip install aminos
 '''
 # التشغيل 
-'''
-cd Chat-closed
-python Chat.py
-'''
+cd Chat-closed && python Chat.py
 # شرح
 الاداة لفتح خاص مغلق 
 اول شي تحط sid
