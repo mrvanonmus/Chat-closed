@@ -23,6 +23,6 @@ python Chat.py
 Sid لمن تكتبه
 لاتحط sid=
 من بهدهم اللصق مثال 
-""
+'''
 AnsiMSI6IG51bGwsICIwIjogMiwgIjMiOiAwLCAiMiI6ICJhYjg0MzBlYy1lYjQzLTQ3OGItYTAzNC1jNjBmZDYwOTc0NzMiLCAiNSI6IDE2MTA3Mi3MiLCAiNSI6IDE2MTA3Mi3M
-""
+'''
