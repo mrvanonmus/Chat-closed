@@ -20,7 +20,6 @@ cd Chat-closed && python Chat.py
 # ملاحظه 
 Sid لمن تكتبه
 لاتحط sid=
-من بهدهم اللصق مثال 
-'''
+# تحطو هيك بس لاتكمل يساوي وقبلها 
 AnsiMSI6IG51bGwsICIwIjogMiwgIjMiOiAwLCAiMiI6ICJhYjg0MzBlYy1lYjQzLTQ3OGItYTAzNC1jNjBmZDYwOTc0NzMiLCAiNSI6IDE2MTA3Mi3MiLCAiNSI6IDE2MTA3Mi3M
-'''
+
