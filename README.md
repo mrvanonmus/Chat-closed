@@ -6,7 +6,7 @@
 
 pkg install python -y && pkg install git
 # تثبيت مكاتب
-pip install amino && pip install aminos
+pip install amino.py&& pip install aminos
 # تثببت سكريبت
 git clone https://github.com/mrvanonmus/Chat-closed
 # التشغيل 
