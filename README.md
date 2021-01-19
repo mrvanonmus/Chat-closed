@@ -3,14 +3,23 @@
 # The SEA Team
 
 # التثبيت
-
-pkg install python -y && pkg install git
+```
+pkg install python -y 
+ pkg install git
+```
 # تثبيت مكاتب
-pip install amino.py&& pip install aminos
+```
+pip install amino.py
+ pip install aminos
+```
 # تثببت سكريبت
+```
 git clone https://github.com/mrvanonmus/Chat-closed
+```
 # التشغيل 
+```
 cd Chat-closed && python Chat.py
+```
 # شرح
 الاداة لفتح خاص مغلق 
 اول شي تحط sid
@@ -21,5 +30,6 @@ cd Chat-closed && python Chat.py
 Sid لمن تكتبه
 لاتحط sid=
 # تحطو هيك بس لاتكمل يساوي وقبلها 
+```
 AnsiMSI6IG51bGwsICIwIjogMiwgIjMiOiAwLCAiMiI6ICJhYjg0MzBlYy1lYjQzLTQ3OGItYTAzNC1jNjBmZDYwOTc0NzMiLCAiNSI6IDE2MTA3Mi3MiLCAiNSI6IDE2MTA3Mi3M
-
+```
