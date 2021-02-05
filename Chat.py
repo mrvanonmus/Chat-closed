@@ -1,51 +1,28 @@
 comId="241758681"
-
 import os
-
 os.system("clear")
-
 print (" _____   _____       ___ \n/  ___/ | ____|     /   | \n| |___  | |__      / /| | \n\___  \ |  __|    / /_| | \n ___| | | |___   / /__| |\n/_____/ |_____| /_/   |_|")
-
 sid=input("\033[1;31m\n# ur sid : \033[1;0m")
-
 import aminos
-
 import amino
-
 client=aminos.ClientSid()                          
-
 '''
-
 login
-
 '''
-
 ss=0
-
 sz=25
-
 nuum=0
-
 tst=False
-
 while tst==False:
-
-	try:		client.sssid(sid=sid)
-
+	try:
+		client.sssid(sid=sid)
 		tst=True
-
 	except:
-
 		tst=False
-
 		print("\033[1;33m\n# Verify ur account! \n")
-
 		exx=input("# continue?\033[1;32m y/n : ")
-
 		if exx=='N' or exx=='n' or exx=='no':
-
 				os._exit(1)
-
 os.system("clear")
 
 print (" _____   _____       ___ \n/  ___/ | ____|     /   | \n| |___  | |__      / /| | \n\___  \ |  __|    / /_| | \n ___| | | |___   / /__| |\n/_____/ |_____| /_/   |_|")
